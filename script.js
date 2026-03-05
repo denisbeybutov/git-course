@@ -7,3 +7,5 @@ function func123() {
 }
 
 func123()
+
+console.log('fixed')
