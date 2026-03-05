@@ -6,6 +6,3 @@ function func123() {
     console.log('func 123')
 }
 
-func123()
-
-console.log('fixed')
